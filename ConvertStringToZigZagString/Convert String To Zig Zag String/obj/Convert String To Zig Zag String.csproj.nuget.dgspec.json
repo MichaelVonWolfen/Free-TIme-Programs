@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Clejani\\source\\repos\\Free-TIme-Programs\\ConvertStringToZigZagString\\Convert String To Zig Zag String\\Convert String To Zig Zag String.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Clejani\\source\\repos\\Free-TIme-Programs\\ConvertStringToZigZagString\\Convert String To Zig Zag String\\Convert String To Zig Zag String.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Clejani\\source\\repos\\Free-TIme-Programs\\ConvertStringToZigZagString\\Convert String To Zig Zag String\\Convert String To Zig Zag String.csproj",
+        "projectName": "Convert String To Zig Zag String",
+        "projectPath": "C:\\Users\\Clejani\\source\\repos\\Free-TIme-Programs\\ConvertStringToZigZagString\\Convert String To Zig Zag String\\Convert String To Zig Zag String.csproj",
+        "packagesPath": "C:\\Users\\Clejani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Clejani\\source\\repos\\Free-TIme-Programs\\ConvertStringToZigZagString\\Convert String To Zig Zag String\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Clejani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

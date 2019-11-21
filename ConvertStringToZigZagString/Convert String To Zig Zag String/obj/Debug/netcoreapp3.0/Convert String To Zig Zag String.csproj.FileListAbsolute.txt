@@ -1,0 +1,10 @@
+C:\Users\Clejani\source\repos\Free-TIme-Programs\Convert String To Zig Zag String\Convert String To Zig Zag String\bin\Debug\netcoreapp3.0\Convert String To Zig Zag String.exe
+C:\Users\Clejani\source\repos\Free-TIme-Programs\Convert String To Zig Zag String\Convert String To Zig Zag String\bin\Debug\netcoreapp3.0\Convert String To Zig Zag String.deps.json
+C:\Users\Clejani\source\repos\Free-TIme-Programs\Convert String To Zig Zag String\Convert String To Zig Zag String\bin\Debug\netcoreapp3.0\Convert String To Zig Zag String.runtimeconfig.json
+C:\Users\Clejani\source\repos\Free-TIme-Programs\Convert String To Zig Zag String\Convert String To Zig Zag String\bin\Debug\netcoreapp3.0\Convert String To Zig Zag String.runtimeconfig.dev.json
+C:\Users\Clejani\source\repos\Free-TIme-Programs\Convert String To Zig Zag String\Convert String To Zig Zag String\bin\Debug\netcoreapp3.0\Convert String To Zig Zag String.dll
+C:\Users\Clejani\source\repos\Free-TIme-Programs\Convert String To Zig Zag String\Convert String To Zig Zag String\bin\Debug\netcoreapp3.0\Convert String To Zig Zag String.pdb
+C:\Users\Clejani\source\repos\Free-TIme-Programs\Convert String To Zig Zag String\Convert String To Zig Zag String\obj\Debug\netcoreapp3.0\Convert String To Zig Zag String.AssemblyInfoInputs.cache
+C:\Users\Clejani\source\repos\Free-TIme-Programs\Convert String To Zig Zag String\Convert String To Zig Zag String\obj\Debug\netcoreapp3.0\Convert String To Zig Zag String.AssemblyInfo.cs
+C:\Users\Clejani\source\repos\Free-TIme-Programs\Convert String To Zig Zag String\Convert String To Zig Zag String\obj\Debug\netcoreapp3.0\Convert String To Zig Zag String.dll
+C:\Users\Clejani\source\repos\Free-TIme-Programs\Convert String To Zig Zag String\Convert String To Zig Zag String\obj\Debug\netcoreapp3.0\Convert String To Zig Zag String.pdb
