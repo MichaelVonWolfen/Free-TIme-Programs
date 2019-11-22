@@ -1,0 +1,11 @@
+C:\Users\Clejani\source\repos\Free-TIme-Programs\StringToInteger\StringToInteger\bin\Debug\netcoreapp3.0\StringToInteger.exe
+C:\Users\Clejani\source\repos\Free-TIme-Programs\StringToInteger\StringToInteger\bin\Debug\netcoreapp3.0\StringToInteger.deps.json
+C:\Users\Clejani\source\repos\Free-TIme-Programs\StringToInteger\StringToInteger\bin\Debug\netcoreapp3.0\StringToInteger.runtimeconfig.json
+C:\Users\Clejani\source\repos\Free-TIme-Programs\StringToInteger\StringToInteger\bin\Debug\netcoreapp3.0\StringToInteger.runtimeconfig.dev.json
+C:\Users\Clejani\source\repos\Free-TIme-Programs\StringToInteger\StringToInteger\bin\Debug\netcoreapp3.0\StringToInteger.dll
+C:\Users\Clejani\source\repos\Free-TIme-Programs\StringToInteger\StringToInteger\bin\Debug\netcoreapp3.0\StringToInteger.pdb
+C:\Users\Clejani\source\repos\Free-TIme-Programs\StringToInteger\StringToInteger\obj\Debug\netcoreapp3.0\StringToInteger.AssemblyInfoInputs.cache
+C:\Users\Clejani\source\repos\Free-TIme-Programs\StringToInteger\StringToInteger\obj\Debug\netcoreapp3.0\StringToInteger.AssemblyInfo.cs
+C:\Users\Clejani\source\repos\Free-TIme-Programs\StringToInteger\StringToInteger\obj\Debug\netcoreapp3.0\StringToInteger.dll
+C:\Users\Clejani\source\repos\Free-TIme-Programs\StringToInteger\StringToInteger\obj\Debug\netcoreapp3.0\StringToInteger.pdb
+C:\Users\Clejani\source\repos\Free-TIme-Programs\StringToInteger\StringToInteger\obj\Debug\netcoreapp3.0\StringToInteger.csprojAssemblyReference.cache
