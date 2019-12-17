@@ -1,0 +1,11 @@
+C:\Users\Clejani\source\repos\Free-TIme-Programs\3Sum\3Sum\bin\Debug\netcoreapp3.0\3Sum.exe
+C:\Users\Clejani\source\repos\Free-TIme-Programs\3Sum\3Sum\bin\Debug\netcoreapp3.0\3Sum.deps.json
+C:\Users\Clejani\source\repos\Free-TIme-Programs\3Sum\3Sum\bin\Debug\netcoreapp3.0\3Sum.runtimeconfig.json
+C:\Users\Clejani\source\repos\Free-TIme-Programs\3Sum\3Sum\bin\Debug\netcoreapp3.0\3Sum.runtimeconfig.dev.json
+C:\Users\Clejani\source\repos\Free-TIme-Programs\3Sum\3Sum\bin\Debug\netcoreapp3.0\3Sum.dll
+C:\Users\Clejani\source\repos\Free-TIme-Programs\3Sum\3Sum\bin\Debug\netcoreapp3.0\3Sum.pdb
+C:\Users\Clejani\source\repos\Free-TIme-Programs\3Sum\3Sum\obj\Debug\netcoreapp3.0\3Sum.csprojAssemblyReference.cache
+C:\Users\Clejani\source\repos\Free-TIme-Programs\3Sum\3Sum\obj\Debug\netcoreapp3.0\3Sum.AssemblyInfoInputs.cache
+C:\Users\Clejani\source\repos\Free-TIme-Programs\3Sum\3Sum\obj\Debug\netcoreapp3.0\3Sum.AssemblyInfo.cs
+C:\Users\Clejani\source\repos\Free-TIme-Programs\3Sum\3Sum\obj\Debug\netcoreapp3.0\3Sum.dll
+C:\Users\Clejani\source\repos\Free-TIme-Programs\3Sum\3Sum\obj\Debug\netcoreapp3.0\3Sum.pdb
