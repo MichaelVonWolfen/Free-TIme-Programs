@@ -1,0 +1,161 @@
+*{
+    padding: 0cm;
+    margin: 10px 0 0px 0 ;
+    font-family:  -apple-system, BlinkMacSystemFont, sans-serif;
+
+}
+.box{
+    position: relative;
+    text-align: center;
+    bottom: 20px;;
+}
+.box .TEXT_t{
+    position: absolute;
+    color: black;
+    font-weight: bolder;
+    font-size: 64px;
+    top: 190px;
+    left: 27vw;
+    right: 27vw;
+}
+.box .TEXT_p{
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    font-size: 48px;
+    top: 295px;
+    left: 22vw;
+    right: 22vw;
+}
+.box .TEXT_q a{
+    position: absolute;
+    text-decoration: none;
+    color: cornflowerblue;
+    font-size: 24px;
+    top: 498px;
+    left: 44vw;
+    right: 44vw;
+}
+.title{
+    font-weight: bold;
+    margin: 5px 0px 20px 16vw;
+    float: left;
+}
+
+.menu{
+    float: right;
+    position: absolute;
+    top:  10px;
+    right: 16vw ;
+}
+.menu li{
+    margin: 17px 16px 16px 0px;
+    text-decoration: none;
+    font-weight: lighter;
+    font-size: 16px;
+    display: inline;
+    color: black;
+    text-align: center;
+    align-items: center;
+}
+.menu li:hover{
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+
+    background: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 150px;
+    border-color:black
+}
+#active{
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+
+    background: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 150px;
+    border-color: black;
+
+}
+.box_2{
+    margin: 20px 0px 0px,0px;
+    width: 100%;
+    height: auto;
+}
+ .TEXT_r{
+    position: relative;
+    color: black;
+    font-weight: bolder;
+    font-size: 64px;
+    margin: 280px 0px 0px 14vw;
+ }
+ .TEXT_s{
+    position: relative;
+    color: black;
+    font-weight: bolder;
+    font-size: 40px;
+    width: fit-content;
+    margin: 29px 0px 0px 14vw;
+ }
+ #Work{
+     border-style: solid;
+     border-radius: 100px;
+     border-width: 2px;
+     text-align: center;
+     padding: 10px 40px 10px 40px;
+     margin: 30px 0 0 14vw;
+     width: fit-content;
+}
+#Work:hover{
+    color: white;
+    background-color: black;
+}
+article{
+    margin: 0 0 200px 0;
+}
+footer{
+    margin: 10px 0 0 0;
+    background-color: black;
+    color: white;
+}
+.Prostii{
+    padding: 30px 0 300px 43vw;
+}
+.TEXT_u{
+    position: relative;
+    color: white;
+    font-weight: bolder;
+    font-size: 64px;
+    margin: 0 0 0 29vw;
+    padding: 295px 0px 0px 14vw;
+}
+.TEXT_v{
+    position: relative;
+    color: white;
+    font-weight: bolder;
+    font-size: 40px;
+    width: fit-content;
+    padding: 29px 14vw 0px 0;
+}
+.TEXT_w{
+    border-style: solid;
+     border-radius: 100px;
+     border-width: 2px;
+     text-align: center;
+     padding: 10px 30px 10px 30px;
+     margin: 30px 0 0 14vw;
+     width: fit-content;
+     color: black;
+     font-weight: bold;
+     background-color: white;
+}
+.TEXT_w:hover{
+     color: white;
+     font-weight: bold;
+     background-color: black;
+}
