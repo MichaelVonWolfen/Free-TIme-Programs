@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Clejani\\source\\repos\\Free-TIme-Programs\\Paranthesis-Validator\\Paranthesis-Validator\\Paranthesis-Validator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Clejani\\source\\repos\\Free-TIme-Programs\\Paranthesis-Validator\\Paranthesis-Validator\\Paranthesis-Validator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Clejani\\source\\repos\\Free-TIme-Programs\\Paranthesis-Validator\\Paranthesis-Validator\\Paranthesis-Validator.csproj",
+        "projectName": "Paranthesis-Validator",
+        "projectPath": "C:\\Users\\Clejani\\source\\repos\\Free-TIme-Programs\\Paranthesis-Validator\\Paranthesis-Validator\\Paranthesis-Validator.csproj",
+        "packagesPath": "C:\\Users\\Clejani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Clejani\\source\\repos\\Free-TIme-Programs\\Paranthesis-Validator\\Paranthesis-Validator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Clejani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
