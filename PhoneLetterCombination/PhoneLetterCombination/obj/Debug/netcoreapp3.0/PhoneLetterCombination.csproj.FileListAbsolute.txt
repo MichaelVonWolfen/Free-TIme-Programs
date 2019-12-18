@@ -1,0 +1,11 @@
+C:\Users\Clejani\source\repos\Free-TIme-Programs\PhoneLetterCombination\PhoneLetterCombination\bin\Debug\netcoreapp3.0\PhoneLetterCombination.exe
+C:\Users\Clejani\source\repos\Free-TIme-Programs\PhoneLetterCombination\PhoneLetterCombination\bin\Debug\netcoreapp3.0\PhoneLetterCombination.deps.json
+C:\Users\Clejani\source\repos\Free-TIme-Programs\PhoneLetterCombination\PhoneLetterCombination\bin\Debug\netcoreapp3.0\PhoneLetterCombination.runtimeconfig.json
+C:\Users\Clejani\source\repos\Free-TIme-Programs\PhoneLetterCombination\PhoneLetterCombination\bin\Debug\netcoreapp3.0\PhoneLetterCombination.runtimeconfig.dev.json
+C:\Users\Clejani\source\repos\Free-TIme-Programs\PhoneLetterCombination\PhoneLetterCombination\bin\Debug\netcoreapp3.0\PhoneLetterCombination.dll
+C:\Users\Clejani\source\repos\Free-TIme-Programs\PhoneLetterCombination\PhoneLetterCombination\bin\Debug\netcoreapp3.0\PhoneLetterCombination.pdb
+C:\Users\Clejani\source\repos\Free-TIme-Programs\PhoneLetterCombination\PhoneLetterCombination\obj\Debug\netcoreapp3.0\PhoneLetterCombination.csprojAssemblyReference.cache
+C:\Users\Clejani\source\repos\Free-TIme-Programs\PhoneLetterCombination\PhoneLetterCombination\obj\Debug\netcoreapp3.0\PhoneLetterCombination.AssemblyInfoInputs.cache
+C:\Users\Clejani\source\repos\Free-TIme-Programs\PhoneLetterCombination\PhoneLetterCombination\obj\Debug\netcoreapp3.0\PhoneLetterCombination.AssemblyInfo.cs
+C:\Users\Clejani\source\repos\Free-TIme-Programs\PhoneLetterCombination\PhoneLetterCombination\obj\Debug\netcoreapp3.0\PhoneLetterCombination.dll
+C:\Users\Clejani\source\repos\Free-TIme-Programs\PhoneLetterCombination\PhoneLetterCombination\obj\Debug\netcoreapp3.0\PhoneLetterCombination.pdb
